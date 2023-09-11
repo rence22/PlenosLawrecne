@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg" alt="Tree">
+</body>
+</html>

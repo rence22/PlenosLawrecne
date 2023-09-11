@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+    body {
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+    }
+
+    h1 {
+        color: #841111;
+    }
+</style>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<!-- Inline Script -->
+<script>
+    function showMessage() {
+        alert("Hello, World! ");
+    }
+</script>
+
+</body>
+</html>

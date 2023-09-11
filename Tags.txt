@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">">
+    <title>Document</title>
+</head>
+<body>
+
+    <p>This is the first paragraph. It contains some text.</p>
+    <hr>
+    <p>This is the second paragraph. It contains more text.</p>
+    
+</body>
+</html>
